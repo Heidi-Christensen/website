@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am a Senior Lecturer in <a href="https://www.sheffield.ac.uk/dcs">Computer Science</a> at the <a href="https://www.sheffield.ac.uk">University of Sheffield</a> and a member
+<p>I am a Professor in <a href="https://www.sheffield.ac.uk/dcs">Computer Science</a> at the <a href="https://www.sheffield.ac.uk">University of Sheffield</a> and a member
 of the <a href="http://catch.org.uk/">Centre for Assistive Technology and Connected
 Healthcare (CATCH)</a> at the <a href="https://www.sheffield.ac.uk">University of
 Sheffield</a>. I am part of the <a href="http://spandh.dcs.shef.ac.uk/">Speech and Hearing Research Group
@@ -26,5 +26,3 @@ the healthcare domain and include two main areas</p>
 <li>the automatic recognition of disordered, atypical speech,</li>
 <li>the detection and tracking of verbal and non-verbal traits in speech and language</li>
 </ul>
-
-<p>I am a member of the <a href="https://signalprocessingsociety.org/community-involvement/speech-and-language-processing">IEEE Speech and Language Processing Technical Committee</a>, and an Associate Editor for the <a href="https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters">IEEE Signal Processing Letters</a>. I am on the organising committee of ASRU-2021 and <a href="https://www.interspeech2021.org/">Interspeech-2021</a>, and one of the area chairs of <a href="https://www.interspeech2021.org/">Interspeech-2021</a>.
