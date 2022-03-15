@@ -17,7 +17,7 @@ Doctoral Training in speech and language technologies and their applications</a>
 
 <p>I am the technical lead for <a href="www.cognospeak.org">CognoSpeak&trade;</a>, a speech-based tool for detecting and tracking early signs of cognitive impairment.</p>
 
-<p>I have a long-standing interest in improving equality and diversity and I am the current <a href="https://www.sheffield.ac.uk/engineering/about/equality-diversity-inclusion">Faculty Director for Equality, Diversity and Inclusion</a>. I am on the diversity committee of <a href="https://www.isca-speech.org/iscaweb/">ISCA (International Speech Communication Association)</a> and the EDI lead for our <a href="https://slt-cdt.ac.uk/">CDT</a></p>
+<p>I have a long-standing interest in improving equality and diversity and I take an active interest in the EDI work in our university. Wider, I am on the diversity committee of <a href="https://www.isca-speech.org/iscaweb/">ISCA (International Speech Communication Association)</a> and the Diversity and Inclusion chair for <a href="https://www.interspeech2023.org/">Interspeech 2023</a>.
 
 <p>My research interests are in the application of audio and speech technology to
 the healthcare domain and include two main areas</p>
