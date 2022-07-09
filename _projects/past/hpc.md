@@ -2,7 +2,7 @@
 title: "HPC"
 excerpt: "Remote monitoring people with Mild Cognitive Impairment using combined technology of the Digital Doctor and ViVA; This project will investigate whether OTs can assess PwMCI in their own home using CognoSpeak in combination with the ViVA remote visit system. PwMCI would use their own smartphone or tablet (facilitated by support worker or family member) or have one provided. Funded by Health & Care Partnership"
 collection: projects
-active: current
+active: past
 ---
 
 

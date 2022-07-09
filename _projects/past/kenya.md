@@ -3,7 +3,7 @@ title: "Automatic Dementia Detection in Kenya"
 excerpt: "This project aimed to investigate the developing non invasive tools that utilize speech analysis and QEEG to
 measure cognitive function in resource poor settings. Funded by the University of Sheffield GRCF pump priming award; 2019"
 collection: projects
-active: current
+active: past
 ---
 
 

@@ -17,5 +17,5 @@ The project will
 - Evaluate ease-of-use (by patients in their homes and in GP clinics) to see how it compares to current services 
 - Collect a large amount of data from patients and healthy controls to develop a new version and further improve the accuracy
 - Provide cost and benefit evidence, so care commissioners can decide whether CognoSpeak:tm: is sufficiently helpful to justify provision via the NHS
-- Prepare CognoSpeak:tm: for NHS use with necessary regulatory approvals (at project end).
+- Prepare CognoSpeak:tm: for NHS use.
 
