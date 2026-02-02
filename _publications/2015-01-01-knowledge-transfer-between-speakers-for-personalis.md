@@ -1,3 +1,7 @@
+---
+title: "Knowledge transfer between speakers for personalised dialogue management"
+date: 2015-01-01
+sort_key: 2014894
 paperurl: "https://doi.org/10.18653/v1/w15-4603"
 ---
 

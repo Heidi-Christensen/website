@@ -1,3 +1,7 @@
+---
+title: "Automatic Detection of Expressed Emotion from Five-Minute Speech Samples: Challenges and Opportunities"
+date: 2022-01-01
+sort_key: 2021844
 paperurl: "https://doi.org/10.21437/interspeech.2022-10188"
 ---
 

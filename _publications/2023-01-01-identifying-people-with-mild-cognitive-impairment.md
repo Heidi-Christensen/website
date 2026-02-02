@@ -1,3 +1,7 @@
+---
+title: "Identifying People with Mild Cognitive Impairment at Risk of Developing Dementia using Speech Analysis"
+date: 2023-01-01
+sort_key: 2022977
 paperurl: "https://doi.org/10.1109/asru57964.2023.10389623"
 ---
 

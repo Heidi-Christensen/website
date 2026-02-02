@@ -1,3 +1,7 @@
+---
+title: "Feasibility of longitudinal automated cognitive assessment in the stroke pathway"
+date: 2023-01-01
+sort_key: 2022974
 paperurl: "https://doi.org/10.1002/alz.076841"
 ---
 

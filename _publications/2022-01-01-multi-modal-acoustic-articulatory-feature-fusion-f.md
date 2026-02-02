@@ -1,3 +1,7 @@
+---
+title: "Multi-Modal Acoustic-Articulatory Feature Fusion For Dysarthric Speech Recognition"
+date: 2022-01-01
+sort_key: 2021962
 paperurl: "https://doi.org/10.1109/icassp43922.2022.9746855"
 ---
 

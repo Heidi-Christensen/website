@@ -1,3 +1,7 @@
+---
+title: "Special issue on applications of speech and language technologies in healthcare"
+date: 2023-01-01
+sort_key: 2022970
 paperurl: "https://doi.org/10.3390/app13116840"
 ---
 

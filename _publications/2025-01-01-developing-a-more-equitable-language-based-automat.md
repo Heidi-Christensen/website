@@ -1,3 +1,7 @@
+---
+title: "Developing a more equitable language‐based automated assessment of cognition: CognoSpeak"
+date: 2025-01-01
+sort_key: 2024995
 paperurl: "https://doi.org/10.1002/alz70857_096485"
 ---
 

@@ -1,3 +1,7 @@
+---
+title: "Dysarthric Speech Recognition From Raw Waveform with Parametric CNNs"
+date: 2022-01-01
+sort_key: 2021840
 paperurl: "https://doi.org/10.21437/interspeech.2022-163"
 ---
 

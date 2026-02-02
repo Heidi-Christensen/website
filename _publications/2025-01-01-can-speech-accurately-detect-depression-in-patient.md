@@ -1,3 +1,7 @@
+---
+title: "Can speech accurately detect depression in patients with comorbid dementia? An approach for mitigating confounding effects of depression and dementia"
+date: 2025-01-01
+sort_key: 2024992
 paperurl: "https://doi.org/10.21437/Interspeech.2025-933"
 ---
 

@@ -1,3 +1,7 @@
+---
+title: "Examining Temporal Variations in Recognizing Unspoken Words using EEG Signals"
+date: 2019-01-01
+sort_key: 2018920
 paperurl: "https://doi.org/10.1109/SMC.2018.00173"
 ---
 

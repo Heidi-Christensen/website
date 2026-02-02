@@ -1,3 +1,7 @@
+---
+title: "Acoustic feature extraction with interpretable deep neural network for neurodegenerative related disorder classification"
+date: 2020-01-01
+sort_key: 2019940
 paperurl: "https://doi.org/10.21437/Interspeech.2020-2684"
 ---
 

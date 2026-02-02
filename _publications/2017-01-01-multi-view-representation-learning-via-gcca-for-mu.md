@@ -1,3 +1,7 @@
+---
+title: "Multi-view representation learning via gcca for multimodal analysis of Parkinson's disease"
+date: 2017-01-01
+sort_key: 2016907
 paperurl: "https://doi.org/10.1109/ICASSP.2017.7952700"
 ---
 

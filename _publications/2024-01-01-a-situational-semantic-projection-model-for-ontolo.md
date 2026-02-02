@@ -1,3 +1,7 @@
+---
+title: "A Situational Semantic Projection Model for Ontology Completion in Dysarthric Speech Using Emotion and Dialogue Acts"
+date: 2024-01-01
+sort_key: 2023981
 paperurl: "https://doi.org/10.1109/icnlp60986.2024.10692930"
 ---
 

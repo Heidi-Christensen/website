@@ -1,3 +1,7 @@
+---
+title: "Evaluating the performance of state-of-the-art ASR systems on non-native English using corpora with extensive language background variation"
+date: 2022-01-01
+sort_key: 2021960
 paperurl: "https://doi.org/10.21437/interspeech.2022-10433"
 ---
 

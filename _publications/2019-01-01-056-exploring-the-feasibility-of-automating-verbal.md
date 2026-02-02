@@ -1,3 +1,7 @@
+---
+title: "056 Exploring the feasibility of automating verbal fluency tasks for cognitive assessment: data collection and analysis"
+date: 2019-01-01
+sort_key: 2018928
 paperurl: "https://doi.org/10.1136/jnnp-2019-abn-2.77"
 ---
 

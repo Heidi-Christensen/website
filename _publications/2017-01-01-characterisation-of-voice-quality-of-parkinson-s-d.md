@@ -1,3 +1,7 @@
+---
+title: "Characterisation of voice quality of Parkinson’s disease using differential phonological posterior features"
+date: 2017-01-01
+sort_key: 2016911
 paperurl: "https://doi.org/10.1016/j.csl.2017.06.004"
 ---
 

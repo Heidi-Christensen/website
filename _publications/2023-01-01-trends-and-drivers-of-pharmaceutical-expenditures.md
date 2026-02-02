@@ -1,3 +1,7 @@
+---
+title: "Trends and drivers of pharmaceutical expenditures from systemic anti-cancer therapy"
+date: 2023-01-01
+sort_key: 2022971
 paperurl: "https://doi.org/10.1007/s10198-022-01515-0"
 ---
 

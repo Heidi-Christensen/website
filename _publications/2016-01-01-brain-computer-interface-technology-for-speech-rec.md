@@ -1,3 +1,7 @@
+---
+title: "Brain-computer interface technology for speech recognition: A review"
+date: 2016-01-01
+sort_key: 2015902
 paperurl: "https://doi.org/10.1109/apsipa.2016.7820826"
 ---
 

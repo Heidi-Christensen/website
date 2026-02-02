@@ -1,3 +1,7 @@
+---
+title: "Analysis of Voice Biomarkers for the Detection of Cognitive Impairment"
+date: 2024-01-01
+sort_key: 2023978
 paperurl: "https://doi.org/10.1109/access.2024.3442431"
 ---
 

@@ -1,3 +1,7 @@
+---
+title: "On the impact of non-modal phonation on phonological features"
+date: 2017-01-01
+sort_key: 2016906
 paperurl: "https://doi.org/10.1109/ICASSP.2017.7953126"
 ---
 

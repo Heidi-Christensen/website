@@ -1,3 +1,7 @@
+---
+title: "TOWARDS DISFLUENCY FEATURES FOR SPEECH TECHNOLOGY BASED AUTOMATIC DEMENTIA CLASSIFICATION"
+date: 2023-01-01
+sort_key: 2022965
 paperurl: "https://www.webofscience.com/api/gateway?GWVersion=2\&SrcApp=sheffield_elements_live\&SrcAuth=WosAPI\&KeyUT=WOS:001578006400786\&DestLinkType=FullRecord\&DestApp=WOS_CPL"
 ---
 

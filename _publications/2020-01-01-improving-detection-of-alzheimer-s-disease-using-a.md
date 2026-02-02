@@ -1,3 +1,7 @@
+---
+title: "Improving detection of Alzheimer’s Disease using automatic speech recognition to identify high-quality segments for more robust feature extraction"
+date: 2020-01-01
+sort_key: 2019937
 paperurl: "https://doi.org/10.21437/interspeech.2020-2698"
 ---
 

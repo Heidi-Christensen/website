@@ -1,3 +1,7 @@
+---
+title: "A new diagnostic approach for the identification of patients with neurodegenerative cognitive complaints"
+date: 2019-01-01
+sort_key: 2018924
 paperurl: "https://doi.org/10.1371/journal.pone.0217388"
 ---
 

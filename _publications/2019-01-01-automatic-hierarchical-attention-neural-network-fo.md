@@ -1,3 +1,7 @@
+---
+title: "Automatic hierarchical attention neural network for detecting AD"
+date: 2019-01-01
+sort_key: 2018925
 paperurl: "https://doi.org/10.21437/interspeech.2019-1799"
 ---
 

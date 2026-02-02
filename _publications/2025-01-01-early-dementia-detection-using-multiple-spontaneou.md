@@ -1,3 +1,7 @@
+---
+title: "Early dementia detection using multiple spontaneous speech prompts: The PROCESS challenge"
+date: 2025-01-01
+sort_key: 2024989
 paperurl: "https://doi.org/10.1109/icassp49660.2025.10889017"
 ---
 

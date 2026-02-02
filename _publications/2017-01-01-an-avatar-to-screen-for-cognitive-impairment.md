@@ -1,3 +1,7 @@
+---
+title: "An avatar to screen for cognitive impairment"
+date: 2017-01-01
+sort_key: 2016910
 paperurl: "https://doi.org/10.1016/j.jns.2017.08.904"
 ---
 

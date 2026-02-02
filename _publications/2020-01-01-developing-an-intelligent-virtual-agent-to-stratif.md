@@ -1,3 +1,7 @@
+---
+title: "Developing an intelligent virtual agent to stratify people with cognitive complaints: A comparison of human-patient and intelligent virtual agent-patient interaction"
+date: 2020-01-01
+sort_key: 2019933
 paperurl: "https://doi.org/10.1177/1471301218795238"
 ---
 

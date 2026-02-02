@@ -1,3 +1,7 @@
+---
+title: "Remote Speech Technology for Speech Professionals - the CloudCAST initiative"
+date: 2015-01-01
+sort_key: 2014893
 paperurl: "https://doi.org/10.18653/v1/w15-5117"
 ---
 

@@ -1,3 +1,7 @@
+---
+title: "An Innovative Speech-Based Interface to Control AAL and IoT Solutions to Help People with Speech and Motor Disability"
+date: 2017-01-01
+sort_key: 2016904
 paperurl: "https://doi.org/10.1007/978-3-319-54283-6_20"
 ---
 

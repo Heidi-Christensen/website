@@ -1,3 +1,7 @@
+---
+title: "From text summarisation to style-specific summarisation for broadcast news"
+date: 2004-01-01
+sort_key: 2003855
 paperurl: "https://doi.org/10.1007/978-3-540-24752-4_17"
 ---
 

@@ -1,3 +1,7 @@
+---
+title: "Automatic Detection of Early Cognitive Decline Using Multimodal Feature Fusion and Transfer Learning on Real-World Conversational Speech"
+date: 2025-01-01
+sort_key: 2024997
 paperurl: "https://doi.org/10.1109/jbhi.2025.3624043"
 ---
 

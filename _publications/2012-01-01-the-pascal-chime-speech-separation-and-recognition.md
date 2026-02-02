@@ -1,3 +1,7 @@
+---
+title: "The PASCAL CHiME speech separation and recognition challenge"
+date: 2012-01-01
+sort_key: 2011881
 paperurl: "https://doi.org/10.1016/j.csl.2012.10.004"
 ---
 

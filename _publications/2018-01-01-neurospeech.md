@@ -1,3 +1,7 @@
+---
+title: "NeuroSpeech"
+date: 2018-01-01
+sort_key: 2017916
 paperurl: "https://doi.org/10.1016/j.softx.2017.08.004"
 ---
 

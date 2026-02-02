@@ -1,3 +1,7 @@
+---
+title: "A Two-Step Attention-Based Feature Combination Cross-Attention System for Speech-Based Dementia Detection"
+date: 2025-01-01
+sort_key: 2024986
 paperurl: "https://doi.org/10.1109/taslpro.2025.3533363"
 ---
 

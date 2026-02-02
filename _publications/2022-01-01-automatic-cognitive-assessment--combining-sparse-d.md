@@ -1,3 +1,7 @@
+---
+title: "Automatic cognitive assessment: Combining sparse datasets with disparate cognitive scores"
+date: 2022-01-01
+sort_key: 2021843
 paperurl: "https://doi.org/10.21437/interspeech.2022-10205"
 ---
 

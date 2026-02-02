@@ -1,3 +1,7 @@
+---
+title: "An avatar-based system for identifying individuals likely to develop dementia"
+date: 2017-01-01
+sort_key: 2016908
 paperurl: "https://doi.org/10.21437/Interspeech.2017-690"
 ---
 

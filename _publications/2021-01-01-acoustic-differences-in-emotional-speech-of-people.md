@@ -1,3 +1,7 @@
+---
+title: "Acoustic differences in emotional speech of people with dysarthria"
+date: 2021-01-01
+sort_key: 2020949
 paperurl: "https://doi.org/10.1016/j.specom.2020.11.005"
 ---
 

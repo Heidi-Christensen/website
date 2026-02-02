@@ -1,3 +1,7 @@
+---
+title: "CloudCAST — Remote Speech Technology for Speech Professionals"
+date: 2016-01-01
+sort_key: 2015842
 paperurl: "https://doi.org/10.21437/interspeech.2016-148"
 ---
 

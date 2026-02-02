@@ -1,3 +1,7 @@
+---
+title: "Investigating Visual Features for Cognitive Impairment Detection Using In-the-wild Data"
+date: 2023-01-01
+sort_key: 2022967
 paperurl: "https://doi.org/10.1109/fg57933.2023.10042506"
 ---
 

@@ -1,3 +1,7 @@
+---
+title: "Features of answers to questions about recent events by people with mild cognitive impairment and Alzheimer’s disease, and healthy controls"
+date: 2023-01-01
+sort_key: 2022973
 paperurl: "https://doi.org/10.1558/jircd.24511"
 ---
 

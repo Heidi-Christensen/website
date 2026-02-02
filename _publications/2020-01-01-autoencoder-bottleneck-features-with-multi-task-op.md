@@ -1,3 +1,7 @@
+---
+title: "Autoencoder bottleneck features with multi-task optimisation for improved continuous dysarthric speech recognition"
+date: 2020-01-01
+sort_key: 2019939
 paperurl: "https://doi.org/10.21437/Interspeech.2020-2746"
 ---
 

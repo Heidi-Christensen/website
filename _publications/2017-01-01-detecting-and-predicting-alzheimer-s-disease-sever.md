@@ -1,3 +1,7 @@
+---
+title: "Detecting and Predicting Alzheimer's Disease Severity in Longitudinal Acoustic Data"
+date: 2017-01-01
+sort_key: 2016913
 paperurl: "https://doi.org/10.1145/3175587.3175589"
 ---
 

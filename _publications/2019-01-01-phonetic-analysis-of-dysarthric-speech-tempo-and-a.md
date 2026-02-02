@@ -1,3 +1,7 @@
+---
+title: "Phonetic Analysis of Dysarthric Speech Tempo and Applications to Robust Personalised Dysarthric Speech Recognition"
+date: 2019-01-01
+sort_key: 2018921
 paperurl: "https://doi.org/10.1109/icassp.2019.8683091"
 ---
 

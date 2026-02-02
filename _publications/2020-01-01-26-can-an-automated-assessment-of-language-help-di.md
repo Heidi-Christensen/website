@@ -1,3 +1,7 @@
+---
+title: "26 Can an automated assessment of language help distinguish between Functional Cognitive Disorder and early neurodegeneration?"
+date: 2020-01-01
+sort_key: 2019936
 paperurl: "https://doi.org/10.1136/jnnp-2020-bnpa.43"
 ---
 

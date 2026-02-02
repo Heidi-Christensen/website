@@ -1,3 +1,7 @@
+---
+title: "Characterising spoken responses to an intelligent virtual agent by persons with mild cognitive impairment"
+date: 2021-01-01
+sort_key: 2020948
 paperurl: "https://doi.org/10.1080/02699206.2020.1777586"
 ---
 

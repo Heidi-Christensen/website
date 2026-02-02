@@ -1,3 +1,7 @@
+---
+title: "Automatic detection and sub-typing of primary progressive aphasia from speech: integrating task-specific features and spatio-semantic graphs"
+date: 2025-01-01
+sort_key: 2024993
 paperurl: "https://doi.org/10.21437/interspeech.2025-2056"
 ---
 

@@ -1,3 +1,7 @@
+---
+title: "CognoStroke: Automated Cognitive and Mood Assessment on the Hyper-Acute Stroke Unit"
+date: 2025-01-01
+sort_key: 2024994
 paperurl: "https://doi.org/10.3390/healthcare13222885"
 ---
 

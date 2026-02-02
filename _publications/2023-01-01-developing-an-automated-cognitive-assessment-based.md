@@ -1,3 +1,7 @@
+---
+title: "Developing an automated Cognitive assessment based on language; CognoSpeak‐ working with an ethnic minority group"
+date: 2023-01-01
+sort_key: 2022975
 paperurl: "https://doi.org/10.1002/alz.076244"
 ---
 

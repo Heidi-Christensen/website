@@ -1,3 +1,7 @@
+---
+title: "Simple and robust audio-based detection of biomarkers for Alzheimer's disease"
+date: 2016-01-01
+sort_key: 2015899
 paperurl: "https://doi.org/10.21437/slpat.2016-6"
 ---
 

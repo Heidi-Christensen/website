@@ -1,3 +1,7 @@
+---
+title: "Computational Cognitive Assessment: Investigating the Use of an Intelligent Virtual Agent for the Detection of Early Signs of Dementia"
+date: 2019-01-01
+sort_key: 2018922
 paperurl: "https://doi.org/10.1109/icassp.2019.8682423"
 ---
 

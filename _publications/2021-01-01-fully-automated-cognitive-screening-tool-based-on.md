@@ -1,3 +1,7 @@
+---
+title: "Fully automated cognitive screening tool based on assessment of speech and language"
+date: 2021-01-01
+sort_key: 2020947
 paperurl: "https://doi.org/10.1136/jnnp-2019-322517"
 ---
 

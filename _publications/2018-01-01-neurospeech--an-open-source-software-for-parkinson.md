@@ -1,3 +1,7 @@
+---
+title: "NeuroSpeech: An open-source software for Parkinson's speech analysis"
+date: 2018-01-01
+sort_key: 2017915
 paperurl: "https://doi.org/10.1016/j.dsp.2017.07.004"
 ---
 

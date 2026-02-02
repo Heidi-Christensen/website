@@ -1,3 +1,7 @@
+---
+title: "Spoken language-based automatic cognitive assessment of stroke survivors"
+date: 2024-01-01
+sort_key: 2023982
 paperurl: "https://doi.org/10.1016/j.laheal.2024.01.001"
 ---
 

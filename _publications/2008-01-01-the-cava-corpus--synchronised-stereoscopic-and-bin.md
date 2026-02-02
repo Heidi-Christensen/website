@@ -1,3 +1,7 @@
+---
+title: "The CAVA corpus: synchronised stereoscopic and binaural datasets with head movements."
+date: 2008-01-01
+sort_key: 2007862
 paperurl: "https://doi.org/10.1145/1452392"
 ---
 
