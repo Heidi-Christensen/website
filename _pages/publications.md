@@ -8,8 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-helle2
+<div class="archive">
+  
+  {% capture my_publications %}{% include_relative works.md %}{% endcapture %}
+  {{ my_publications | markdownify }}
 
-{% for post in site.publications reversed %}
-      {% include archive-single.html %}
-{% endfor %}
+</div>
