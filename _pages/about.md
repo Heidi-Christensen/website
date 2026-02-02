@@ -7,20 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p>I am a <b>Professor and the Head of the School of Computer Science</b> at the University of Sheffield. My research is situated at the intersection of speech technology, AI, and healthcare, where I focus on developing machine learning systems that use spontaneous speech and language biomarkers to detect early signs of clinical conditions.</p>
 
-<p>I am a Professor in <a href="https://www.sheffield.ac.uk/dcs">Computer Science</a> at the <a href="https://www.sheffield.ac.uk">University of Sheffield</a> and a member
-of the <a href="http://catch.org.uk/">Centre for Assistive Technology and Connected
-Healthcare (CATCH)</a> at the <a href="https://www.sheffield.ac.uk">University of
-Sheffield</a>. I am part of the <a href="http://spandh.dcs.shef.ac.uk/">Speech and Hearing Research Group
-(SPandH)</a> and a theme lead for the UKRI <a href="https://slt-cdt.ac.uk/">Centre for
-Doctoral Training in speech and language technologies and their applications</a>.</p>
+<p>A major focus of my work is <b>CognoSpeak™</b>, an automated, remote assessment tool for cognitive impairment. My team and I recently published our latest findings on its clinical utility in the <i>IEEE Journal of Biomedical and Health Informatics</i> (2025). We are also expanding these technologies to support stroke recovery and Motor Neurone Disease (MND).</p>
 
-<p>I am the technical lead for <a href="www.cognospeak.org">CognoSpeak&trade;</a>, a speech-based tool for detecting and tracking early signs of cognitive impairment.</p>
-
-<p>I have a long-standing interest in improving equality and diversity and I take an active interest in the EDI work within our university. Wider, I am on the diversity committee of <a href="https://www.isca-speech.org/iscaweb/">ISCA (International Speech Communication Association)</a> and the Diversity and Inclusion chair for <a href="https://www.interspeech2023.org/">Interspeech 2023</a>.
-
-<p>My research interests are in the application of audio and speech technology to
-the healthcare domain and include three main areas</p>
+<p>Beyond my research, I am a dedicated advocate for Equality, Diversity, and Inclusion (EDI), having previously served as the Faculty Director of EDI and led the University to a successful <b>Athena SWAN Silver</b> institutional renewal. I currently have over 3,800 citations and an h-index of 36, reflecting my commitment to bridging AI innovation with impactful, real-world healthcare solutions.</p>
 
 <ul>
 <li>the automatic recognition of disordered, atypical speech,</li>
