@@ -2,7 +2,7 @@
 title: "Equality, Diversity and Inclusin issues in Speech Technology"
 excerpt: "What are the prevailing EDI issues in current speech technologies and how do we successfully mitigate the resulting biases?; Funded by Research England, 2022."
 collection: projects
-active: current
+active: past
 ---
 
 

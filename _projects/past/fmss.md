@@ -2,7 +2,7 @@
 title: "Five Minute Speech Segments"
 excerpt: "Piloting development of an automated approach to coding expressed emotion in mothers' speech to improve prediction of youth mental health problemsImproving diagnosticprocedures for epilepsythrough automatedrecording and analysisof patient’s history; Funded by the PSYCHIATRY RESEARCH TRUST, 2021-2022."
 collection: projects
-active: current
+active: past
 ---
 
 

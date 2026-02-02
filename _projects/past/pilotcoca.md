@@ -2,7 +2,7 @@
 title: "pilotCOCA - COntext-aware COmmunication Aids"
 excerpt: "Creating more intelligent, context-aware communication aids for people with natural but disordered speech; Funded by Research England, 2022."
 collection: projects
-active: current
+active: past
 ---
 
 

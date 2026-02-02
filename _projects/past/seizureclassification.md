@@ -2,7 +2,7 @@
 title: "Seizure Classification"
 excerpt: "Improving diagnosticprocedures for epilepsythrough automatedrecording and analysisof patient’s history; Funded by the Epilepsy Research UK, 2019-2022."
 collection: projects
-active: current
+active: past
 ---
 
 

@@ -2,7 +2,7 @@
 title: "CognoSpeak: a Cognitive Health Assessment Tool (CcHAT)"
 excerpt: "This project will develop a quicker and more efficient way to assess people with memory concerns. Our solution is a conversational tool (CognoSpeak:tm:) that asks questions using a ‘talking head’ on a laptop, tablet or smartphone and carefully analyses the spoken answers to detect early signs of dementia. Funded by NIHR i4i; £1.3M; 2022-2025"
 collection: projects
-active: current
+active: past
 ---
 
 
