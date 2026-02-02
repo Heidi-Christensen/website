@@ -6,13 +6,26 @@ author_profile: true
 ---
 
 
-{% include base_path %}
+{% include sidebar.html %}
 
-{% comment %} Group by year and sort descending {% endcomment %}
-{% assign postsByYear = site.publications | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reversed %}
+  <div class="archive">
+    <h1 class="page__title">{{ page.title }}</h1>
+    
+    <p>A full list of my research output is available via <a href="https://scholar.google.com/citations?user=5ccB6BcAAAAJ&hl=en">Google Scholar</a>.</p>
 
-{% for year in postsByYear %}
-  {% for post in year.items %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endfor %}
+    {% comment %} 
+      1. Group by year
+      2. Sort the groups (names)
+      3. Reverse to get the newest year first
+    {% endcomment %}
+    {% assign postsByYear = site.publications | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reversed %}
+
+    {% for year in postsByYear %}
+      <h2 id="{{ year.name }}" class="archive__subtitle">{{ year.name }}</h2>
+      {% comment %} Sort items within the year by date descending {% endcomment %}
+      {% assign yearItems = year.items | sort: "date" | reversed %}
+      {% for post in yearItems %}
+        {% include archive-single.html %}
+      {% endfor %}
+    {% endfor %}
+  </div>
