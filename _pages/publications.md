@@ -7,20 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-hello
+hello2
 
-<div class="archive">
-  {% comment %} 
-    Sort by date and then reverse to put newest at the top.
-    We remove the 'border' style if you want a truly plain listing.
-  {% endcomment %}
-  
-  {% assign sorted_pubs = site.publications | sort: 'date' | reversed %}
+{% assign sorted_pubs = site.publications | sort: "date" %}
+{% assign reversed_pubs = sorted_pubs | reversed %}
 
-  {% for post in sorted_pubs %}
-    <div class="publication-entry" style="margin-bottom: 15px;">
-      {{ post.content | markdownify }}
-    </div>
-  {% endfor %}
-</div>
-
+{% for post in reversed_pubs %}
+  <div class="publication-entry" style="margin-bottom: 15px;">
+    {{ post.content | markdownify }}
+  </div>
+{% endfor %}
