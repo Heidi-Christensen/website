@@ -2,7 +2,7 @@
 title: "Training Network on Processing of Pathological Speech (TAPAS)"
 excerpt: "This project aims to modify out CognoSpeak tool for the stroke survivors. It will provide an easy-to-use, home-based method for monitoring cognitive health post stroke by automatically analysing a person's speech and language as they speak with an on-screen virtual agent. Funded by Rosetrees Trust Interdisciplinary 2019 Prize for Medicine & AI; £250,000; 2020-2023"
 collection: projects
-active: current
+active: past
 ---
 
 
