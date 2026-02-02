@@ -6,11 +6,9 @@ author_profile: true
 ---
 
 
-{% include sidebar.html %}
+  {% include sidebar.html %}
 
-  <div class="archive">
-    <h1 class="page__title">{{ page.title }}</h1>
-    
+ 
     <p>A full list of my research output is available via <a href="https://scholar.google.com/citations?user=5ccB6BcAAAAJ&hl=en">Google Scholar</a>.</p>
 
     {% comment %} 
@@ -28,4 +26,4 @@ author_profile: true
         {% include archive-single.html %}
       {% endfor %}
     {% endfor %}
-  </div>
+  
