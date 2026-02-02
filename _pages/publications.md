@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+hello
+
 <div class="archive">
   {% comment %} 
     Sort by date and then reverse to put newest at the top.
