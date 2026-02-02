@@ -1,13 +1,13 @@
 ---
 title: "CcHAT: CognoSpeak: a Cognitive Health Assessment Tool"
-excerpt: "A multi-million pound NIHR-funded clinical study to revolutionize dementia diagnosis through automated, AI-driven speech analysis."
+excerpt: "A multi-million pound NIHR-funded clinical study to revolutionise dementia diagnosis through automated, AI-driven speech analysis."
 collection: projects
 active: past
 header:
   teaser: /assets/img/cognomemory-teaser.png
 ---
 
-**CcHAT** (CognoSpeak: a Cognitive Health Assessment Tool) was a major clinical research initiative funded by the **NIHR i4i (Invention for Innovation)** program. At its core, the project addressed a critical bottleneck in the UK healthcare system: the overwhelming pressure on Memory Assessment Pathways (MAPs). By utilizing natural language processing and machine learning, we developed a system capable of performing automated, remote cognitive screenings—saving clinician time and accelerating the diagnostic journey for patients.
+**CcHAT** (CognoSpeak: a Cognitive Health Assessment Tool) was a major clinical research initiative funded by the **NIHR i4i (Invention for Innovation)** program. At its core, the project addressed a critical bottleneck in the UK healthcare system: the overwhelming pressure on Memory Assessment Pathways (MAPs). By utilising natural language processing and machine learning, we developed a system capable of performing automated, remote cognitive screenings—saving clinician time and accelerating the diagnostic journey for patients.
 
 During the course of the project, our branding evolved to reflect the expanding scope of our research. While **CognoSpeak™** now serves as the overarching name for our entire suite of speech-based assessment projects, the specific tool developed and validated for the dementia detection pathway within this project is now known as **CognoMemory**.
 
@@ -19,7 +19,7 @@ The success of CcHAT and the launch of **CognoMemory** were built on a deeply in
 * **Clinical & Academic Leadership:** Led by **Dr. Dan Blackburn** (University of Sheffield/STH) and **Prof. Heidi Christensen** (University of Sheffield).
 * **Commercial Development:** [Therapy Box](https://www.therapy-box.co.uk/), who transformed our research models into a robust, user-facing digital platform.
 * **Clinical Translation:** [Devices 4 Dignity (D4D)](https://devices4dignity.org.uk/), providing strategic guidance on clinical safety and NHS adoption.
-* **Diverse Recruitment Networks:** We collaborated with **10 NHS Recruitment Sites** (including CNWL, Newcastle, and Manchester) and four key community organizations—**Israac Somali Community**, **ShipShape**, **Sheffield Chinese Community Centre**, and **Meri Yaadein**—to ensure our AI was trained on a truly representative dataset.
+* **Diverse Recruitment Networks:** We collaborated with **10 NHS Recruitment Sites** (including CNWL, Newcastle, and Manchester) and four key community organisations, **Israac Somali Community**, **ShipShape**, **Sheffield Chinese Community Centre**, and **Meri Yaadein** to ensure our AI was trained on a truly representative dataset.
 
 ### Key Outcomes and Successes
 The project concluded in July 2025, having fundamentally shifted the landscape for speech-based biomarkers:
