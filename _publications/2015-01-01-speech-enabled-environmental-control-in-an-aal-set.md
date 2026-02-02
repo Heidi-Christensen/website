@@ -1,8 +1,3 @@
----
-title: "Speech-enabled environmental control in an AAL setting for people with speech disorders: a case study"
-collection: publications
-date: 2015-01-01
-venue: "IET International Conference on Technologies for Active and Assisted Living (TechAAL)"
 paperurl: "https://doi.org/10.1049/ic.2015.0129"
 ---
 

@@ -1,8 +1,3 @@
----
-title: "Introducing Phonetically Motivated Information into ASR"
-collection: publications
-date: 2001-01-01
-venue: "Proceedings of Eurospeech 2001"
 paperurl: "http://www.isca-speech.org/archive/eurospeech_2001/e01_2289.html"
 ---
 

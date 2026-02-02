@@ -1,8 +1,3 @@
----
-title: "Automatic selection of speakers for improved acoustic modelling: recognition of disordered speech with sparse data"
-collection: publications
-date: 2014-01-01
-venue: "2014 IEEE Spoken Language Technology Workshop (SLT)"
 paperurl: "https://doi.org/10.1109/slt.2014.7078583"
 ---
 
