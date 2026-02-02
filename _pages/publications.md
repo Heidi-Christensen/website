@@ -5,10 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 {% include sidebar.html %}
 
- 
 <p>A full list of my research output is available via <a href="https://scholar.google.com/citations?user=5ccB6BcAAAAJ&hl=en">Google Scholar</a>.</p>
 
 {% comment %} 
